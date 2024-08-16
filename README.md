@@ -1,2 +1,17 @@
 # CDA_FORMATIONS_EXERCICES
-Git pour répertorié tous les exercices réaliser en CDA
+
+## Objectifs
+
+> L'objectifs de ce git est de centraliser les exercices vue durant la formations de Concepteur Développeur D'Applications du 26 octobre 2023 au 24 janvier 2025  
+> Ce git rassemble tout les projets depuis le module java (Moment de la créations du projet teams début du module Java)  
+> Ce git aura aussi pour objectif de mettre les projets d'exercice futur réaliser en formations.
+
+### Sommaire
+
+- JAVA / JALARTA EE
+- DESIGN PATTERNS
+- JBDC
+- JPA
+- SPRING
+- DOCKER
+- Architecture Hexagonal / MicroServices
