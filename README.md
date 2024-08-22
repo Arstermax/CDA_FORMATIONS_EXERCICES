@@ -13,5 +13,6 @@
 - JBDC
 - JPA
 - SPRING
+- QUARKUS
 - DOCKER
 - Architecture Hexagonal / MicroServices
