@@ -24,14 +24,14 @@ public class ClientService {
     @Transactional
     public Client save(String name, String email, String telephone) {
         Client client = createEntity(name, email, telephone);
-        clientRepository.isPersistent(client);
+        clientRepository.persist(client);
         return client;
     }
 
     @Transactional
     public Client save(Client entity) {
-        clientRepository.isPersistent(entity);
-        return entity;
+        clientRepository.persist(entity);
+        return findById(entity.getId());
     }
 
     public List<Client> findAll() {
